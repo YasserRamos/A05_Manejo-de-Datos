@@ -100,7 +100,7 @@ function deleteData(id) {
 ```
 
 ### 📷 Captura de Pantalla  
-_(Incluir captura de pantalla de la funcionalidad de SQLite funcionando en la app.)_  
+![EVIDENCIA](evidencia.jpg)  
 
 ---
 
